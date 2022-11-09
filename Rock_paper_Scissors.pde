@@ -93,13 +93,4 @@ void mousePressed() {
     endGame();
   }
 
-}
-
-
-
-
- 
-  
-
-
-  
+} 
